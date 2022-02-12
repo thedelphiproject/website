@@ -1,7 +1,7 @@
 # Website
 
 Todo:
-- [ ] landing page with links to sections/actions:
+- [x] landing page with links to sections/actions:
   - Learn more --> links to Docs
   - Inspect pools & oracles --> links to Pool Explorer & Oracle Explorer
   - Run an oracle --> links to Registration
