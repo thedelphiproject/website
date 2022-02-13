@@ -5,6 +5,7 @@
 
 <svelte:head>
 	<title>Delphi Project</title>
+	<link rel="stylesheet" href="node_modules/svelte-material-ui/bare.css" />
 </svelte:head>
 
 <Header />

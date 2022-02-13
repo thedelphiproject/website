@@ -17,7 +17,7 @@
 			<p>Inspect existing pools or find oracles to recruit for a new pool.</p>
 		</div>
 	</a>
-	<a href="/#">
+	<a href="/register#">
 		<div>
 			<h2>Run</h2>
 			<p>Join a pool or register to become an oracle operator.</p>
