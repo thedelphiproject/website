@@ -1,12 +1,13 @@
 <div class="intro">
 	<div>
-		<h1>Jump into Oracle Pools</h1>
+		<h1>Jump into Oracle Pools*</h1>
 		<p>
 			Explore, run, and launch decentralized oracles on the <a href="https://ergoplatform.org"
 				>Ergo</a
 			>
 			blockchain, or simply learn more about oracle pools.
 		</p>
+		<p>* don't grab your togs yet, it's still in development.</p>
 	</div>
 </div>
 
